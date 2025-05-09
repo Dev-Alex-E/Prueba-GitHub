@@ -1,6 +1,6 @@
 # Prueba-GitHub
 Primer repositorio creado en GitHub
 
-##Descripcion
+## Descripcion
 Repositorio de Prueba para GitHub
 
