@@ -1,3 +1,3 @@
-nombre = "pupu"
+nombre = "papu"
 
 print("Hola " + nombre)
