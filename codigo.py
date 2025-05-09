@@ -1,5 +1,5 @@
-nombre = "Alex"
-apellido = "Trujillo"
+nombre = "Soy"
+apellido = "Alex"
 
 saludo = "Hola "+ nombre + " " + apellido
 
